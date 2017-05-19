@@ -2,7 +2,7 @@
 //  ViewController.m
 //  Person App
 //
-//  Created by T-Radio AS on 19/05/2017.
+//  Created by Robert Restad on 19/05/2017.
 //  Copyright © 2017 Microways Ltd. All rights reserved.
 //
 
@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    printf("Testing Git!");
 }
 
 
